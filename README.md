@@ -77,6 +77,6 @@ VITE_API_BASE_URL=https://your-backend-url
 
 ## Deployment Links
 
-- Frontend: add deployed URL here
-- Backend API: add deployed URL here
-- GitHub Repository: add repository URL here
+- Frontend: https://inventory-fifo-assignment.vercel.app
+- Backend API: https://inventory-fifo-assignment.onrender.com
+- GitHub Repository: https://github.com/vikashsingh73559-dot/inventory-fifo-assignment
